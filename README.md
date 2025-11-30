@@ -149,18 +149,3 @@ This project is for educational purposes only. Do not use it for unauthorized sc
 
 
 
----
-
-✅ This README is:  
-
-- Beginner-friendly  
-- Explains **ports and their meaning**  
-- Explains **both scripts** and optional parameters  
-- Suggests **screenshots** to make it visual and standard  
-- Written in **plain language** anyone can understand  
-
----
-
-If you want, I can **also make a tiny diagram showing “IP → ports → services”** that can go in the README — it’s very helpful for visual learners.  
-
-Do you want me to make that diagram too?
